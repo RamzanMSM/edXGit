@@ -1,1 +1,10 @@
 https://github.com/dockersamples/global-2018-hol
+
+
+
+https://events.docker.com/resources/
+https://training.play-with-docker.com/
+https://events.docker.com/docker-global-event-series-2018-hands-on-labs/
+https://github.com/dockersamples/global-2018-hol
+http://ee-workshop.play-with-docker.com/?aliId=220707360
+	
